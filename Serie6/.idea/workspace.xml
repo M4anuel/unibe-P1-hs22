@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98b45be7-6285-438c-b5f7-25494f338eb9" name="Changes" comment="P1S6 v2, funktioniert auf Laptop, da Original Repo nicht funktioniert aus komischen Intellij Gründen">
+      <change afterPath="$PROJECT_DIR$/src/Implementation2/UML Class-diagram P1I2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Implementation2/UML Class-diagram P1I2.jpeg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HwjyVsBeWRMc0wEnrdSg30m3Cr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Implementation2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\OneDrive\Dokumente\Code\Java\P1S6\src\Implementation2" />
+      <recent name="C:\Users\manue\OneDrive\Dokumente\_Uni\Informatik\Programmieren1\P1S62\src\Implementation2" />
+      <recent name="C:\Users\manue\OneDrive\Dokumente\_Uni\Informatik\Programmieren1\P1S62\src\Implementation3" />
+      <recent name="C:\Users\manue\OneDrive\Dokumente\_Uni\Informatik\Programmieren1\P1S62\src\Implementation1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\OneDrive\Dokumente\Code\Java\P1S6\src\Implementation2" />
+      <recent name="C:\Users\manue\OneDrive\Dokumente\_Uni\Informatik\Programmieren1\P1S62\src\Implementation2" />
+      <recent name="C:\Users\manue\OneDrive\Dokumente\_Uni\Informatik\Programmieren1\P1S62\src\Implementation3" />
+      <recent name="C:\Users\manue\OneDrive\Dokumente\_Uni\Informatik\Programmieren1\P1S62\src\Implementation1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DmTest">
+    <configuration name="DmTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation1.DmTest" />
+      <module name="P1S62" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FurnitureTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation3.FurnitureTest" />
+      <module name="P1S62" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Implementation1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation1.Test" />
+      <module name="P1S62" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Implementation2.Store" />
+      <module name="P1S62" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Implementation2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="P1S62" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DmTest" />
+        <item itemvalue="Application.Store" />
+        <item itemvalue="Application.FurnitureTest" />
+        <item itemvalue="Application.Implementation1.Test" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98b45be7-6285-438c-b5f7-25494f338eb9" name="Changes" comment="" />
+      <created>1669203296871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669203296871</updated>
+      <workItem from="1669203299240" duration="504000" />
+      <workItem from="1669203819526" duration="377000" />
+      <workItem from="1669204214701" duration="21000" />
+      <workItem from="1669204248403" duration="1655000" />
+      <workItem from="1669274510783" duration="676000" />
+    </task>
+    <task id="LOCAL-00001" summary="P1S6 v2, funktioniert auf Laptop, da Original Repo nicht funktioniert aus komischen Intellij Gründen">
+      <created>1669205767948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669205767948</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="P1S6 v2, funktioniert auf Laptop, da Original Repo nicht funktioniert aus komischen Intellij Gründen" />
+    <option name="LAST_COMMIT_MESSAGE" value="P1S6 v2, funktioniert auf Laptop, da Original Repo nicht funktioniert aus komischen Intellij Gründen" />
+  </component>
+</project>
