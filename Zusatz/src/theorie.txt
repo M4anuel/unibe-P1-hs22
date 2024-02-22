@@ -1,0 +1,20 @@
+//Abdihakin Sahal Omar 20-947-107
+//Manuel Flückiger 22-112-502
+
+TheorieAufgaben
+1.1)
+        try{
+            CDPlayer cdPlayer = (CDPlayer) mPlayer;
+        }catch(ClassCastException ignored){}
+1.2)
+        try{
+            Scanner fileScan = new Scanner(new File("xxx.txt"));
+        }catch(FileNotFoundException ignored){}
+
+2)
+    public void increaseSemester(Student s) throws NotInitializedException{
+        if (s==null){
+            throw new NotInitializedException("Not yet initialized");
+        }
+      }
+3) abdec
