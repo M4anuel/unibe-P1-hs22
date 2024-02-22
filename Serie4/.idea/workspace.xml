@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f92ff15-ea68-400f-b8a7-c0a6e2f6f6d2" name="Changes" comment="Antworten noch als .tex file geaddet&#10;Player Klasse gefixt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gl0BkKFUA7bzucvnPN7OuS60If" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/manue/OneDrive/Dokumente/_Uni/Informatik/Programmieren1/Serie4/src&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\manue\OneDrive\Dokumente\_Uni\Informatik\Programmieren1\Serie4\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Pig">
+    <configuration name="CoinTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CoinTest" />
+      <module name="Serie4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pig" />
+      <module name="Serie4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PigGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PigGame" />
+      <module name="Serie4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestPig" />
+      <module name="Serie4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TheorieAufgaben" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TheorieAufgaben" />
+      <module name="Serie4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pig" />
+        <item itemvalue="Application.TheorieAufgaben" />
+        <item itemvalue="Application.TestPig" />
+        <item itemvalue="Application.PigGame" />
+        <item itemvalue="Application.CoinTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f92ff15-ea68-400f-b8a7-c0a6e2f6f6d2" name="Changes" comment="" />
+      <created>1666947733045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666947733045</updated>
+      <workItem from="1666947734941" duration="8364000" />
+      <workItem from="1666958430078" duration="4506000" />
+      <workItem from="1666966121573" duration="1049000" />
+      <workItem from="1666986177718" duration="330000" />
+      <workItem from="1666994502369" duration="1712000" />
+      <workItem from="1667037077550" duration="257000" />
+      <workItem from="1667198006694" duration="1287000" />
+      <workItem from="1667200073367" duration="3191000" />
+      <workItem from="1667208419526" duration="3763000" />
+      <workItem from="1667212234755" duration="48000" />
+      <workItem from="1667372880023" duration="433000" />
+      <workItem from="1667376031661" duration="1576000" />
+      <workItem from="1667383604693" duration="339000" />
+      <workItem from="1667384106261" duration="9405000" />
+      <workItem from="1667394505229" duration="76000" />
+      <workItem from="1667394601051" duration="2489000" />
+    </task>
+    <task id="LOCAL-00001" summary="CoinTest now works">
+      <created>1666955581253</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666955581253</updated>
+    </task>
+    <task id="LOCAL-00002" summary="CoinTest now proper indent (big fix)">
+      <created>1666955931542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666955931542</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TheorieAufgaben sind besser aufgeschrieben, Pair of Dice Klasse erstellt und erste Testfunktion.&#10;TODO: ü,ä ersetzen. File von Vorlesunge enthällt komische encodierung...">
+      <created>1666957564939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666957564939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TheorieAufgaben gelösst">
+      <created>1666960841661</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666960841661</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Missverständnis der Implementation 1! wird verbessert">
+      <created>1666996128773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666996128773</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Missverständnis der Implementation 1! wird verbessert&#10;Bestehender Cointest verbessert">
+      <created>1666996214151</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666996214151</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Missverständnis der Implementation 1! wird verbessert&#10;Bestehender Cointest verbessert">
+      <created>1667200100525</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667200100525</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Missverständnis der Implementation 1! wird verbessert&#10;Bestehender Cointest verbessert">
+      <created>1667204077620</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1667204077620</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Pig Spiel geht nicht&#10;Player ist Hilfsklasse für dieses Spiel">
+      <created>1667212275956</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1667212275956</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Pig geht">
+      <created>1667376807843</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1667376807843</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Pig ist voll funktionsfähig, mit 1&amp;2 Spieler modus">
+      <created>1667386376830</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1667386376830</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Pig ist voll funktionsfähig, mit 1&amp;2 Spieler modus">
+      <created>1667387557419</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1667387557419</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Pig ist mehr nach Java Konvention geschrieben">
+      <created>1667390558526</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1667390558526</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Pig Kommentare verbessert">
+      <created>1667392090699</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1667392090699</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Antworten noch als .tex file geaddet">
+      <created>1667393590679</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1667393590679</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Antworten noch als .tex file geaddet">
+      <created>1667394558643</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1667394558643</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Antworten noch als .tex file geaddet&#10;Player Klasse gefixt">
+      <created>1667395776539</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1667395776539</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Antworten noch als .tex file geaddet&#10;Player Klasse gefixt">
+      <created>1667396245024</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1667396245024</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="CoinTest now works" />
+    <MESSAGE value="CoinTest now proper indent (big fix)" />
+    <MESSAGE value="TheorieAufgaben sind besser aufgeschrieben, Pair of Dice Klasse erstellt und erste Testfunktion.&#10;TODO: ü,ä ersetzen. File von Vorlesunge enthällt komische encodierung..." />
+    <MESSAGE value="TheorieAufgaben erweitert, Pig Klasse erstellt" />
+    <MESSAGE value="TheorieAufgaben gelösst" />
+    <MESSAGE value="Missverständnis der Implementation 1! wird verbessert" />
+    <MESSAGE value="CoinRace gefixt, eigene Klasse dafür gemacht.&#10;isOne Methode von Klasse PairOfDice zu Pig bewegt.&#10;kleine weitere updates zu pig" />
+    <MESSAGE value="Missverständnis der Implementation 1! wird verbessert&#10;Bestehender Cointest verbessert" />
+    <MESSAGE value="Pig Spiel geht nicht&#10;Player ist Hilfsklasse für dieses Spiel" />
+    <MESSAGE value="Pig sollte jetzt gehen" />
+    <MESSAGE value="Pig geht" />
+    <MESSAGE value="Pig ist voll funktionsfähig, mit 1&amp;2 Spieler modus" />
+    <MESSAGE value="Pig ist mehr nach Java Konvention geschrieben" />
+    <MESSAGE value="Pig Kommentare verbessert" />
+    <MESSAGE value="Antworten noch als .tex file geaddet" />
+    <MESSAGE value="Antworten noch als .tex file geaddet&#10;Player Klasse gefixt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Antworten noch als .tex file geaddet&#10;Player Klasse gefixt" />
+  </component>
+</project>
